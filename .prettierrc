@@ -1,0 +1,25 @@
+{
+  "printWidth": 80,
+  "useTabs": false,
+  "tabWidth": 2,
+  "tabs": false,
+  "semi": true,
+  "singleQuote": true,
+
+  "quoteProps": "consistent",
+  "trailingComma": "all",
+  "arrowParens": "always",
+  "proseWrap": "always",
+  "endOfLine": "lf",
+  "bracketSpacing": true,
+  "jsxBracketSameLine": true,
+  "htmlWhitespaceSensitivity": "ignore",
+  "jsxSingleQuote": false,
+  "rangeStart": 0,
+  "importSort": {
+    ".js, .jsx, .ts, .tsx": {
+      "style": "module",
+      "parser": "typescript"
+    }
+  }
+}
