@@ -5,7 +5,7 @@ import { useTitleGuard } from './title-guard';
 
 export const router = createRouter({
   history: createWebHashHistory(),
-  routes
+  routes,
 })
 
 
